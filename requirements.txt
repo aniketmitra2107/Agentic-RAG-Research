@@ -1,0 +1,13 @@
+langgraph
+langchain
+langchain-community
+langchain-openai
+chromadb
+langchain-chroma
+rank-bm25
+sentence-transformers
+langchain-huggingface
+pypdf
+datasets
+streamlit
+python-dotenv
